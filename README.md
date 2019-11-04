@@ -1,3 +1,3 @@
 # SubmodulesRepoSub
-Submodule for submodule excersise. <br>
+Submodule for submodule excersise.
 Uuendatud
